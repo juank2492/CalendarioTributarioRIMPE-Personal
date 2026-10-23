@@ -1,0 +1,62 @@
+﻿{
+  "fiscal_year": 2026,
+  "feriados_nacionales_ecuador": [
+    [1, 1],
+    [2, 16],
+    [2, 17],
+    [4, 3],
+    [5, 1],
+    [5, 24],
+    [8, 10],
+    [10, 9],
+    [11, 2],
+    [11, 3],
+    [12, 25]
+  ],
+  "ninth_digit_deadlines": {
+    "1": 10,
+    "2": 12,
+    "3": 14,
+    "4": 16,
+    "5": 18,
+    "6": 20,
+    "7": 22,
+    "8": 24,
+    "9": 26,
+    "0": 28
+  },
+  "rimpe_types": {
+    "RIMPE_NEGOCIO_POPULAR": {
+      "obligations": [
+        {
+          "code": "RENTA_RIMPE_NP",
+          "name": "Declaración Anual Impuesto a la Renta - Negocio Popular",
+          "month": 5,
+          "color": "#1d4ed8"
+        }
+      ]
+    },
+    "RIMPE_EMPRENDEDOR": {
+      "obligations": [
+        {
+          "code": "IVA_SEMESTRAL_1",
+          "name": "Declaración Semestral IVA (Semestre 1)",
+          "month": 7,
+          "color": "#2563eb"
+        },
+        {
+          "code": "IVA_SEMESTRAL_2",
+          "name": "Declaración Semestral IVA (Semestre 2)",
+          "month": 1,
+          "color": "#2563eb"
+        },
+        {
+          "code": "RENTA_ANUAL_EMPRENDEDOR",
+          "name": "Declaración Anual Impuesto a la Renta - Emprendedor",
+          "month": 3,
+          "color": "#1d4ed8"
+        }
+      ]
+    }
+  }
+}
